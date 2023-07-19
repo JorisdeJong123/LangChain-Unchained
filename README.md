@@ -36,6 +36,8 @@ This will start the Streamlit application, and you can access it in your browser
 
 Contributions to the LangChain Unchained series are welcome! If you have ideas for new projects, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
+I'll be updating the directory over the coming days.
+
 
 ## Contact
 
