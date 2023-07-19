@@ -21,7 +21,7 @@ To run the LangChain Unchained projects, follow these steps:
 
 Each LangChain Unchained project is located in a separate file. To run a specific project, navigate to its directory and execute the Streamlit command:
 
-    'streamlit run project_x.py'
+    streamlit run project_x.py
 
 This will start the Streamlit application, and you can access it in your browser by opening the provided URL.
 
