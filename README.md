@@ -32,6 +32,11 @@ This will start the Streamlit application, and you can access it in your browser
 - File: `project_1.py`
 - Description: This project helps you create a strategy for a four-hour workday based on a YouTube video. It utilizes LangChain components like YouTube transcript loader, text splitting, summarization_chain, and LLMChain. The Streamlit UI allows you to enter a YouTube video URL, and it generates a strategy and plan for your workday.
 
+### Project 2: Prompt Generator
+
+- File: `project_2.py`
+- Description: This project focuses on the importance of prompts in achieving excellent results with Large Language Models (LLMs). The Prompt Generator tool helps you generate effective prompts for interacting with LLMs. It leverages Few-shot learning techniques by utilizing example prompts to instruct the model.
+
 ## Contributing
 
 Contributions to the LangChain Unchained series are welcome! If you have ideas for new projects, bug fixes, or improvements, feel free to open an issue or submit a pull request.
