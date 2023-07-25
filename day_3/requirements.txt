@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+pydub
+tabulate
+streamlit
+audio-recorder-streamlit
