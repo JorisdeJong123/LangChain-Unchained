@@ -19,7 +19,7 @@ openai_api_key = st.text_input(label="OpenAI API Key ",  placeholder="Ex: sk-2tw
 with st.container():
     st.markdown("""Make sure you've entered your OpenAI API Key. 
                 Don't have an API key yet? 
-                Read [this](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/) article on how to get an API key.""")
+                Read [this](https://medium.com/@joristechtalk/how-to-get-an-openai-api-key-for-chatgpt-fd2cf6a436c5) article on how to get an API key.""")
     
 # Let user upload a file
 uploaded_file = st.file_uploader("Upload your study material", type=['pdf'])
